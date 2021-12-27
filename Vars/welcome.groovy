@@ -1,3 +1,3 @@
-def call(number)(
-   echo " this is ${number} for the jenkins shared library"
+def call(name)(
+   echo " this is ${name} for the jenkins shared library"
 }
